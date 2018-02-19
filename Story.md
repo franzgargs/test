@@ -20,3 +20,9 @@ test5
 Added Line to Master
 test from Branch
 
+#Chapter 7
+added for cherry-pick
+
+#Chapter 8
+added for cherry-pick
+
