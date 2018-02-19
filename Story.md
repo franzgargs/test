@@ -15,3 +15,7 @@ test 4
 #Chapter 5
 added new Chapter
 test5
+
+#Chapter 6
+Added Line to Master
+
