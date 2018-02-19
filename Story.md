@@ -3,8 +3,7 @@ Once upon a time in a Git
 
 #Chapter 2
 There was a programmer named
-
 New Programmer added
-
+#
 #Chapter 3
 modify for staging
